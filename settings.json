@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "BloodyEclipseEM.aternos.me",
-    "port": 49918,
+    "port": BloodyEclipseEM.aternos.me:49918,
     "version": "",
     "try-creative": false
   },
