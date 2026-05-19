@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BloodyEclipseEM.aternos.me",
+    "ip": "BloodyEclipseEM.aternos.me:49918",
     "port": 49918,
     "version": "",
     "try-creative": false
